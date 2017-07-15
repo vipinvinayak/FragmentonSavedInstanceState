@@ -8,8 +8,9 @@
 
     <Button
         android:id="@+id/button1"
+        android:padding="10dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:text="Clcik Me" />
 
 </FrameLayout>

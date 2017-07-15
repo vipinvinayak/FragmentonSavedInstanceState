@@ -19,7 +19,7 @@ import android.widget.TextView;
 public class FragmentB extends Fragment {
 
     TextView textView;
-  
+
 
     public FragmentB() {
         // Required empty public constructor
